@@ -1,0 +1,3 @@
+-- Simulate an old migration that once required an extension
+--CREATE SCHEMA fake_extension;
+--CREATE TABLE fake_extension.test_table (id serial primary key);
